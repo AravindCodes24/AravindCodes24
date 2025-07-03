@@ -6,7 +6,7 @@
 
 ## 💡 About Me  
 - 🔥 Passionate about **Frontend Development**  
-- 🌱 Currently learning **React,Redux Toolkit , Redux Saga, Gsap and Git**  
+- 🌱 Currently learning **React, Redux-Toolkit, Redux Saga, Gsap and Git**  
 - 💻 Exploring **JavaScript frameworks & modern web technologies**  
 - 🤝 Open to collaborating on **exciting frontend projects**  
 
