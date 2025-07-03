@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Aravind (@AravindCodes24)  
 
-🚀 **Aspiring Web Developer | Learning React Rtk Redux Saga & Git- Version Control**  
+🚀 **Aspiring Web Developer | Learning React Redux Saga & Git- Version Control**  
 
 ---
 
 ## 💡 About Me  
 - 🔥 Passionate about **Frontend Development**  
-- 🌱 Currently learning **React, Redux Saga, Gsap and Git**  
+- 🌱 Currently learning **React,Redux Toolkit , Redux Saga, Gsap and Git**  
 - 💻 Exploring **JavaScript frameworks & modern web technologies**  
 - 🤝 Open to collaborating on **exciting frontend projects**  
 
