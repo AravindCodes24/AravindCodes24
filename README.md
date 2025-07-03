@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Aravind (@AravindCodes24)  
 
-🚀 **Aspiring Web Developer | Learning React Redux & Git- Version Control**  
+🚀 **Aspiring Web Developer | Learning React Rtk Redux Saga & Git- Version Control**  
 
 ---
 
